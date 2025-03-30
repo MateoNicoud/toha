@@ -1,0 +1,17 @@
+# some information about you
+name: "Matéo Nicoud"
+nickname: "Matéo"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "mateo.nicoud@gmail.com"
+  
+
+
+# a summary of what you do
+summary:
+- I am a Developer
+- I work with Go
+- I love to work with some fun projects

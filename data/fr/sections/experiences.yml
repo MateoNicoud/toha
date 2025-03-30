@@ -1,0 +1,23 @@
+section:
+  name: Experiences # Titre de la section (par défaut: "" )
+  id: experiences # url id/slug of section *Required*
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+  # Your experiences
+experiences:
+- company:
+    name: Elipce informatique
+    url: "https://www.linkedin.com/company/elipce-informatique/"
+    location: Valence, France
+    logo: /images/sections/experiences/elipce_informatique_cover.jpg
+    overview: Elipce Informatique est une société de services spécialisée dans le développement de logiciels et d’applications. En tant que bureau d’études, Elipce propose une expertise complète, allant de la Tierce Maintenance Applicative (TMA) au support technico-fonctionnel, tout en offrant des experts en Assistance Technique (AT). L’entreprise intègre également des solutions logicielles pour optimiser l’organisation et la performance de ses clients.
+  positions:
+  - designation: DevOps Junior
+    start: Sep 2024
+    end: Sep 2025
+    responsibilities:
+    - Analyser et documenter les environnements existants  
+    - Maintenir l'infrastructure serveur  
+    - Améliorer les environnements de développement

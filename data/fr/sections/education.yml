@@ -1,0 +1,30 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+degrees:
+- name: Baccalauréat Scientifique (S), spécialité Sciences de l'Ingénieur. Option Informatique et Sciences du Numérique.
+  icon: fa-microscope
+  timeframe: 2018
+  institution:
+    name: Lycée Général et Technologique Gaston Monnerville (Kourou)
+    logo: /images/education/college.png # Path of the logo image
+    darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
+
+- name: TP - Administrateur système DevOps
+  icon: fa-server
+  timeframe: 2023-2025
+  institution:
+    name: Campus Numérique de Valence
+    url: https://le-campus-numerique.fr/campus-valence/
+    logo: /images/education/afpa.png
+  publications:
+  - title: "Répertoire national des certifications professionnelles"
+    url: https://www.francecompetences.fr/recherche/rncp/36061/
+  

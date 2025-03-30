@@ -1,0 +1,73 @@
+# Section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+skills:
+- name: CI/CD
+  logo: /images/sections/skills/cicd.png
+  summary: "Expertise dans la conception et la gestion de pipelines CI/CD en utilisant GitLab CI et GitHub Actions. Solide expérience dans l'automatisation des tests, le déploiement, et la livraison continue. Familiarité avec Sonatype Nexus Repository pour la gestion d'artefacts et la mise en place d'environnements de production, de test et de secours."
+  url: "https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/"
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Maîtrise de Docker pour créer, déployer et gérer des conteneurs de manière efficace. Expérience dans la construction d'environnements isolés et portables, facilitant le déploiement d'applications complexes."
+  url: "https://www.docker.com/"
+
+- name: Terraform
+  logo: /images/sections/skills/terraform.svg
+  summary: "Compétences approfondies en gestion de l'infrastructure en tant que code (IaC) avec Terraform. Expertise dans la création, l'orchestration et la gestion de ressources cloud pour des environnements hautement disponibles et évolutifs."
+  url: "https://www.terraform.io/"
+
+- name: Ansible
+  logo: /images/sections/skills/Ansible.png
+  summary: "Expertise dans l'automatisation de tâches complexes avec Ansible, y compris la gestion de configurations et le déploiement d'applications. Capacité à maintenir des infrastructures robustes et homogènes grâce à des playbooks efficaces."
+  url: "https://docs.ansible.com/"
+
+- name: Proxmox
+  logo: /images/sections/skills/proxmox.png
+  summary: "Expérience solide dans la gestion et le déploiement de machines virtuelles et de conteneurs avec Proxmox. Compétent dans l'administration d'environnements virtualisés optimisés pour la performance et l'évolutivité."
+  url: "https://www.proxmox.com/en/"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Solide expérience dans l'administration de systèmes Linux, incluant la gestion de serveurs et l'automatisation de tâches avec des scripts Bash. Connaissances approfondies des distributions Debian, Ubuntu, AlmaLinux, Fedora et Arch Linux."
+  url: "https://www.linux.org/"
+
+- name: Prometheus
+  logo: /images/sections/skills/prometheus_hu4458671310818419910.png
+  summary: "Expertise dans l'utilisation de Prometheus pour surveiller des infrastructures complexes, collecter des métriques détaillées et configurer des alertes proactives pour une supervision continue."
+  url: "https://prometheus.io/"
+
+- name: Grafana
+  logo: /images/sections/skills/grafana.webp
+  summary: "Compétences avancées dans la création de tableaux de bord interactifs avec Grafana pour la visualisation de données. Expérience dans l'intégration de métriques et la personnalisation des rapports pour des analyses exploitables."
+  url: "https://grafana.com/"
+
+- name: Git
+  logo: /images/sections/skills/git_hu14158614257034894168.png
+  summary: "Maîtrise de Git pour la gestion efficace de versions et le contrôle de code source. Expérience dans la collaboration avec des équipes multi-projets et la mise en place de workflows adaptés aux besoins."
+  url: "https://git-scm.com/"
+
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Excellente maîtrise de Python pour le développement d'applications, l'automatisation de processus et l'analyse de données. Compétent dans l'utilisation de bibliothèques modernes et la création de solutions orientées objet."
+  url: "https://www.python.org/"
+
+- name: Cloud Computing
+  logo: /images/sections/skills/cloud.png
+  summary: "Expérience pratique dans l'utilisation de services cloud tels qu'OVH, Azure et DigitalOcean pour le déploiement d'applications, la gestion d'infrastructures évolutives et l'optimisation des coûts."
+  url: "https://www.ovhcloud.com/fr/"
+
+- name: Windows Server
+  logo: /images/sections/skills/windows.png
+  summary: "Solides compétences dans l'administration Windows Server, notamment dans la gestion d'Active Directory, la configuration de serveurs DHCP et DNS, ainsi que l'automatisation avec PowerShell."
+  url: "https://www.microsoft.com/fr-fr/windows-server"
+
+- name: Laravel
+  logo: /images/sections/skills/laravel.png
+  summary: "Expérience dans le développement d'applications web performantes et sécurisées avec Laravel. Compétent dans l'utilisation de l'ORM Eloquent pour gérer les bases de données et dans la conception d'architectures logicielles modulaires."
+  url: "https://laravel.com/"
